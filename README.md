@@ -64,4 +64,4 @@ Based on the analysis, the following strategies are recommended:
 3.  **Reports:** Refer to `Customer_Churn_Report.docx` and `Customer-Churn-Analysis.pptx` for a detailed narrative and presentation of the findings.
 
 ---
-*Created by [Nikhil Vishwakarma]*
+*Created by [Kajal Nishad]*
